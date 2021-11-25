@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## ¡Bienvenidos!
 
-You can use the [editor on GitHub](https://github.com/mariaapalafox/Semimetales-topologicos-irradiados./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mariaapalafox/Semimetales-topologicos-irradiados./settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ La búsqueda de materiales con nuevas fases electrónicas, caracterizadas con propiedades inusuales, es un objetivo clave para el desarrollo de nueva tecnología.
+ En esta página encontrarán una breve introducción al mundo de los semimetales. En nuestros días, la Física Teórica del estado Sólido y la Física Teórica de Altas Energías están convergiendo no solamente en la metodología de trabajo, sino en temas de investigación de interés común. Uno de estos temas es la física de los semimetales de Weyl. Estos materiales, son sistemas tridimensionales cuya relación de dispersión electrónica viene descrita por lo que se conoce como la ecuación de Weyl, ecuación que, en el contexto de altas energías, describe las propiedades de las excitaciones fermiónicas de baja masa. 
+ 
+Los semimetales son materiales donde las bandas de conducción y las bandas de valencias se tocan en puntos llamados nodos; los cuales están dotados de una topología (caracterizada por invariantes topológicas). En este trabajo nos enfocaremos en la interacción de estos mismos con un campo eléctrico periódico en el tiempo (luz polarizada), con el fin de dar al material nuevas propiedades electrónicas. Nuestro punto de partida es un Hamiltoniano de un semimetal topológico definido en una red de Kagome tomado de la referencia “Higher-ordertopological semimetal in acoustic crystals”. En el trabajo exploramos el espectro de energías del Hamiltoniano identificando la aparición de los estados de borde. Nuestro trabajo concluye con la adición al Hamiltoniano de un campo eléctrico dependiente del tiempo (onda electromagnética, o luz) que resolveremos utilizando la teoría de Floquet.
